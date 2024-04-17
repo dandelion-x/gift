@@ -10,4 +10,5 @@ push test 222222222222222222 22 by dandelion-y
 test by dandelion-x commit
 fork test dandelion-y commit
 ssh test commit by dandelion-x
+ssh test push commit by dandelion-x
 
